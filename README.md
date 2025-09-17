@@ -26,11 +26,9 @@ Amaç; yolculuk verilerini analiz ederek müşteri davranışlarını ve operasy
 ##  Girdi & Çıktı Değişkenleri
 - **Features (Girdi):**  
   - `distance_km_clean`  
-  - `avg_ctat_min`  
   - `avg_vtat_min`  
   - `duration_min_est`  
-  - `driver_rating`  
-  - `customer_rating`  
+  
 - **Target (Çıktı):**  
   - `booking_value_adjusted`  
 
