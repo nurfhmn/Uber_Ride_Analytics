@@ -1,0 +1,68 @@
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Sanal ortamlar
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+.eggs/
+
+# IDE / Editor Dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+
+# (Uber Analizi)
+
+# Geçici / Ara dosyalar
+*.log
+*.tmp
+*.bak
+
+# Çıktı dosyaları
+*.csv
+*.xlsx
+*.xls
+*.ods
+*.sav
+*.db
+*.sqlite
+
+# Model ve tahmin çıktıları
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Görselleştirme çıktıları
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Power BI
+
+
+*.pbix
+
+
+
+
+# Sistem Dosyaları
+
+.DS_Store
+Thumbs.db
+desktop.ini
